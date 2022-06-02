@@ -1,2 +1,2 @@
-# w3school
-This projetct contains all the lessons I had in python
+# Learn_Python
+This repoitory contains all the lessons I had in python
